@@ -21,7 +21,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 - **Systèmes et outils :** Linux, réseaux, Git, GitHub
-- **En cours d'apprentissage :** TypeScript, Next.js, Docker
 
 ## 📁 Quelques projets
 
