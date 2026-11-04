@@ -5,7 +5,7 @@
 ## 🔎 Ce que je cherche
 
 - **Stage de 12 semaines** du 29 mars au 18 juin 2027 (prolongeable jusqu'au 31 août)
-- **Alternance** pour la suite de mes études (master cybersécurité)
+- **Alternance** pour la suite de mes études 
 - Domaines : cybersécurité, développement web, systèmes et réseaux
 
 ## 🛠️ Ce que je pratique
